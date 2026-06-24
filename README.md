@@ -1,6 +1,6 @@
 # Hi, I'm Sanika Kawalkar 👋
 
-Self-taught developer focused on cybersecurity and building real, working tools.
+Self-taught developer focused on cybersecurity and building tools for the same, very interested in the bcyber course by IIT Kanpur.
 
 ## 🔧 What I Build
 - Security tools
