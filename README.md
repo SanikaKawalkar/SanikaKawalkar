@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Sanika Kawalkar 👋
 
-<!--
-**SanikaKawalkar/SanikaKawalkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Self-taught developer focused on cybersecurity and building real, working tools.
 
-Here are some ideas to get you started:
+## 🔧 What I Build
+- Security tools
+- Password encryption systems
+- File system monitors for detecting suspicious activity
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies
+- Java
+- Git & GitHub
+- AES Encryption
+- Java NIO WatchService API
+
+## 📂 Projects
+
+| Project | What it does |
+
+| [password-checker](https://github.com/SanikaKawalkar/password-checker) | Analyzes password strength in real time |
+| [password-vault](https://github.com/SanikaKawalkar/password-vault) | Encrypts and stores passwords using AES-128 |
+| [malware-sandbox](https://github.com/SanikaKawalkar/malware-sandbox) | Monitors folders for suspicious file activity |
+
+## 🎯 Currently
+- Deepening knowledge in cybersecurity
+
+## 📫 Contact
+sanikakawalkar.git@gmail.com
